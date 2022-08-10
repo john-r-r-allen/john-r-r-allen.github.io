@@ -11,3 +11,5 @@ I have experience working in:
  - HTML/CSS
  - SQLRPGLE/RPGLE/RPG Free
  - CLLE/CL
+ -  Java
+ - Python
